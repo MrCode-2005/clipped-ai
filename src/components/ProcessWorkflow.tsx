@@ -7,7 +7,7 @@ const steps = [
     {
         num: "01",
         title: "Upload and transcribe",
-        description: "Upload your local video file or paste a YouTube or Zoom link. Vizard will automatically transcribe your video with high accuracy.",
+        description: "Upload your local video file or paste a YouTube or Zoom link. Clipped Ai will automatically transcribe your video with high accuracy.",
         image: "/images/workflow/Upload and transcribe.webp"
     },
     {

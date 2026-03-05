@@ -9,7 +9,7 @@ const features = [
         num: "01",
         title: "AI Clipping",
         subtitle: "Let AI find highlights and reframe\nfor TikTok, Reels and Shorts",
-        description: "Vizard automatically identify engaging\nmoments, cut them with one click, and\ncenter key subjects in vertical format, no\nmanual resizing needed.",
+        description: "Clipped Ai automatically identify engaging\nmoments, cut them with one click, and\ncenter key subjects in vertical format, no\nmanual resizing needed.",
         image: "/images/features/AI Clipping.webp"
     },
     {
@@ -66,7 +66,7 @@ export default function AIFeatures() {
                     {/* Top Centered Header */}
                     <div className="text-center mb-16 relative z-20 w-full flex flex-col items-center">
                         <span className="text-[#ffc107] tracking-[0.15em] text-[15px] font-bold uppercase mb-4">
-                            WHAT MAKES VIZARD DIFFERENT?
+                            WHAT MAKES CLIPPED AI DIFFERENT?
                         </span>
                         <h2 className="text-white text-[40px] md:text-[56px] leading-[1.1] font-bold tracking-tight">
                             AI features that actually work

@@ -25,8 +25,8 @@ const footerLinks = {
     ],
     Resources: [
         "Blog", "Knowledge Base", "Video tutorials", "Help center",
-        "Vizard vs Opus", "Vizard vs Capcut", "Vizard vs Vidyo",
-        "Vizard vs Getmunch", "Vizard vs Captions", "Vizard vs Submagic", "Vizard vs Veed"
+        "Clipped Ai vs Opus", "Clipped Ai vs Capcut", "Clipped Ai vs Vidyo",
+        "Clipped Ai vs Getmunch", "Clipped Ai vs Captions", "Clipped Ai vs Submagic", "Clipped Ai vs Veed"
     ],
     Company: [
         "About", "Contact us", "Affiliate", "Roadmap"
@@ -54,7 +54,7 @@ export default function Footer() {
                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M16 0V32M0 16H32M4.68629 4.68629L27.3137 27.3137M4.68629 27.3137L27.3137 4.68629" stroke="#ff9bbd" strokeWidth="4" strokeLinecap="round" />
                             </svg>
-                            <span className="text-3xl font-black tracking-tight text-white">vizard</span>
+                            <span className="text-3xl font-black tracking-tight text-white mb-1">Clipped Ai</span>
                         </Link>
 
                         <div className="bg-white rounded-2xl p-3 w-[150px] aspect-square flex items-center justify-center">
@@ -102,7 +102,7 @@ export default function Footer() {
 
                 {/* Bottom Bar */}
                 <div className="mt-24 pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-6 text-xs text-gray-400">
-                    <p>© Vizard, Corp. All rights reserved</p>
+                    <p>© Clipped Ai, Corp. All rights reserved</p>
                     <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-2">
                         <Link href="#" className="hover:text-white transition-colors">Terms of service</Link>
                         <span>|</span>

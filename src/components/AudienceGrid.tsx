@@ -5,23 +5,23 @@ import { motion } from "framer-motion";
 
 const audiences = [
     {
-        title: "Vizard for creator & podcaster",
+        title: "Clipped Ai for creator & podcaster",
         description: "Clip long-form videos and 10x your viewership with zero effort.",
         image: "/images/audience/who_we_help_image1.webp"
     },
     {
-        title: "Vizard for coach & business owners",
+        title: "Clipped Ai for coach & business owners",
         description: "Clip webinar, client calls and interviews to build your personal brand.",
         image: "/images/audience/who_we_help_image2.webp"
     },
     {
-        title: "Vizard for marketers",
+        title: "Clipped Ai for marketers",
         description: "Turn one webinar into a month worth of social media content. Supercharge your marketing team.",
         image: "/images/audience/who_we_help_image3.webp"
     },
     {
-        title: "Vizard for agency and freelancer",
-        description: "Increase your output tenfold at a fraction of the cost. Let Vizard be your editing co-pilot.",
+        title: "Clipped Ai for agency and freelancer",
+        description: "Increase your output tenfold at a fraction of the cost. Let Clipped Ai be your editing co-pilot.",
         image: "/images/audience/who_we_help_image4.webp"
     }
 ];

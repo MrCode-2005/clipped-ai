@@ -30,7 +30,7 @@ export default function TeamWorkspace() {
                         <div className="relative w-full aspect-[4/3] max-w-[650px] mx-auto drop-shadow-[0_20px_40px_rgba(81,43,154,0.15)] rounded-2xl overflow-hidden">
                             <Image
                                 src="/images/teams/Introducing Teams for Collaboration.webp"
-                                alt="Introducing Vizard.ai Team Workspace"
+                                alt="Introducing Clipped Ai Team Workspace"
                                 fill
                                 sizes="(max-width: 768px) 100vw, 50vw"
                                 className="object-contain"
@@ -50,7 +50,7 @@ export default function TeamWorkspace() {
                             Team Workspace,<br />built for every team
                         </h3>
                         <p className="text-[#4c5567] text-[17px] leading-relaxed font-light mb-10">
-                            Introducing Vizard.ai's Team Workspace: Revolutionizing collaboration with a centralized hub, allowing leaders to invite members for seamless project management, real-time viewing, and sharing previews with clients or external team members.
+                            Introducing Clipped Ai's Team Workspace: Revolutionizing collaboration with a centralized hub, allowing leaders to invite members for seamless project management, real-time viewing, and sharing previews with clients or external team members.
                         </p>
 
                         <button className="bg-[#512b9a] hover:bg-[#3c1d76] transition-colors text-white font-bold py-4 px-8 rounded-full text-[15px] tracking-wide shadow-lg shadow-[#512b9a]/20 flex items-center gap-3">

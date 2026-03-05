@@ -87,7 +87,7 @@ export default function Hero() {
                     </svg>
                     NEW
                 </span>
-                <span>Try Veo 3, Sora 2, Nano Banana and more models on Vizard</span>
+                <span>Try Veo 3, Sora 2, Nano Banana and more models on Clipped Ai</span>
                 <svg
                     width="14"
                     height="14"
@@ -135,7 +135,7 @@ export default function Hero() {
                 transition={{ duration: 0.6, delay: 0.4 }}
                 className="text-center text-white/70 text-base sm:text-lg max-w-[720px] mx-auto mt-6 leading-relaxed"
             >
-                Vizard uses AI to turn your long-form videos into short clips ready for
+                Clipped Ai uses AI to turn your long-form videos into short clips ready for
                 channels like TikTok, Instagram, YouTube Shorts, and more.
             </motion.p>
 
