@@ -56,7 +56,7 @@ export default function SocialClips() {
                         whileInView={{ opacity: 1, y: 0 }}
                         viewport={{ once: true }}
                         transition={{ duration: 0.5, delay: 0.2 }}
-                        className="flex flex-col items-center gap-4 mt-12 md:mt-24"
+                        className="flex flex-col items-center gap-4"
                     >
                         <span className="text-[#3c1d76] font-bold">9:16</span>
                         <img
@@ -72,7 +72,7 @@ export default function SocialClips() {
                         whileInView={{ opacity: 1, y: 0 }}
                         viewport={{ once: true }}
                         transition={{ duration: 0.5, delay: 0.3 }}
-                        className="flex flex-col items-center gap-4 mt-4 md:mt-8"
+                        className="flex flex-col items-center gap-4"
                     >
                         <span className="text-[#3c1d76] font-bold">1:1</span>
                         <img
