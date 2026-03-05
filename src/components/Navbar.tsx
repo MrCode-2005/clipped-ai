@@ -78,7 +78,7 @@ export default function Navbar() {
                 <a href="#" className="flex items-center gap-2.5 group">
                     <LogoIcon />
                     <span className={`font-bold text-[26px] tracking-tight ml-1 transition-colors duration-300 ${scrolled ? "text-[#3c1d76]" : "text-white"}`}>
-                        vizard
+                        Clipped Ai
                     </span>
                 </a>
 

@@ -16,7 +16,7 @@ export default function Home() {
     <main className="relative bg-[#1a0a3e]">
       {/* 
         This wrapper groups the Navbar, Hero, and VideoPreview so they all 
-        share the same continuous hero gradient, mirroring the original vizard layout
+        share the same continuous hero gradient, mirroring the original Clipped Ai layout 
         where the video preview box floats entirely within the gradient.
       */}
       <div className="hero-gradient">
