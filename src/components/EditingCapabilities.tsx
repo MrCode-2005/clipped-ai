@@ -21,7 +21,7 @@ const capabilities = [
     {
         title: "Caption translation",
         description: "Auto-translate your captions into 30+ languages.",
-        image: "/images/editing/caption_translation.webp",
+        image: "/images/editing/caption_translation.png",
     },
     {
         title: "Brand template",
