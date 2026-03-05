@@ -26,7 +26,7 @@ const capabilities = [
     {
         title: "Brand template",
         description: "Save customized settings and styles for your brand.",
-        image: "/images/editing/brand_template.webp",
+        image: "/images/editing/brand_template.png",
     },
     {
         title: "Link share",
