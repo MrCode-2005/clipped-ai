@@ -29,7 +29,7 @@ export default function TeamWorkspace() {
                     >
                         <div className="relative w-full aspect-[4/3] max-w-[650px] mx-auto drop-shadow-[0_20px_40px_rgba(81,43,154,0.15)] rounded-2xl overflow-hidden">
                             <Image
-                                src="/images/teams/Introducing Teams for Collaboration.webp"
+                                src="/images/teams/Introducing Teams for Collaboration.png"
                                 alt="Introducing Clipped Ai Team Workspace"
                                 fill
                                 sizes="(max-width: 768px) 100vw, 50vw"
