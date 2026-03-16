@@ -1,7 +1,7 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import VideoPreview from "@/components/VideoPreview";
-import SocialProof from "@/components/SocialProof";
+
 import SocialClips from "@/components/SocialClips";
 import ShowcaseCarousel from "@/components/ShowcaseCarousel";
 import ProcessWorkflow from "@/components/ProcessWorkflow";
@@ -25,7 +25,7 @@ export default function Home() {
         <VideoPreview />
       </div>
 
-      <SocialProof />
+
       <ShowcaseCarousel />
       <AudienceGrid />
       <TeamWorkspace />
