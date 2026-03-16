@@ -71,39 +71,6 @@ export default function Hero() {
                 size={28}
             />
 
-            {/* Announcement badge */}
-            <motion.a
-                href="#"
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.6, delay: 0.1 }}
-                className="inline-flex items-center gap-2 px-1 py-1 pr-4 pl-1 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 text-white/90 text-[13px] sm:text-sm font-medium mb-8 hover:bg-white/15 transition-colors group"
-            >
-                <span className="flex items-center gap-1.5 bg-white/20 backdrop-blur-md text-white px-3 py-1.5 rounded-full font-semibold">
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                        <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" />
-                        <path d="M15.54 8.46a5 5 0 0 1 0 7.07" />
-                        <path d="M19.07 4.93a10 10 0 0 1 0 14.14" />
-                    </svg>
-                    NEW
-                </span>
-                <span>Try Veo 3, Sora 2, Nano Banana and more models on Clipped Ai</span>
-                <svg
-                    width="14"
-                    height="14"
-                    viewBox="0 0 14 14"
-                    fill="none"
-                    className="group-hover:translate-x-0.5 transition-transform ml-1 opacity-70"
-                >
-                    <path
-                        d="M5.25 3.5L8.75 7L5.25 10.5"
-                        stroke="currentColor"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                    />
-                </svg>
-            </motion.a>
 
             {/* Hero Heading */}
             <motion.div
