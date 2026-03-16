@@ -31,7 +31,7 @@ const features = [
         title: "AI Social Caption and hashtag",
         subtitle: "Ready-to-post copy for every platform",
         description: "Generate tailored social media captions, titles, and hashtags optimized for TikTok, Instagram, YouTube, and LinkedIn in one click.",
-        image: "/images/features/AI Social Caption and hashtag.webp"
+        image: "/images/features/AI Social Caption and hashtag.png"
     }
 ];
 
